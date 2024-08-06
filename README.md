@@ -1,5 +1,5 @@
 # portifolio
 
-Meu portifólio em HTML
+Portifólio em HTML
 
 Link do Site: https://portifolio-html.netlify.app
